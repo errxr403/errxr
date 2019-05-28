@@ -1,7 +1,7 @@
 #!/bin/sh
 
-TOKEN="0338344d2c58799d36707c47e26edac2868b6e0e"
-CITY="united-kingdom/salford-m60"
+TOKEN=""
+CITY=""
 
 API="https://api.waqi.info/feed"
 
